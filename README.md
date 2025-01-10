@@ -44,7 +44,7 @@ Ensure the following software and hardware are available:
    pip install -r requirements.txt
    ```
 
-3. (Optional) Configure the Arduino:
+3. Configure the Arduino:
    - Upload the Arduino sketch provided in the repository (if applicable) using the Arduino IDE.
    - Connect the Arduino to your computer.
 
