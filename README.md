@@ -35,7 +35,7 @@ Ensure the following software and hardware are available:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/drowsiness-detection.git
+   git clone https://github.com/vmaurya6622/ML-Powered-Drowsiness-Detection-and-Driver-SafetySystem.git
    cd drowsiness-detection
    ```
 
