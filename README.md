@@ -29,8 +29,8 @@ Ensure the following software and hardware are available:
 
 ### Hardware Requirements
 1. A computer with a camera/webcam.
-2. Arduino board (e.g., Arduino Uno) for hardware components.
-3. Buzzer or LED for notifications (optional).
+2. Arduino board (e.g., Arduino Uno) for hardware components along with a pulse sensor for Heart-beat Monitoring.
+3. Buzzer for notifications.
 
 ## Installation
 1. Clone the repository:
