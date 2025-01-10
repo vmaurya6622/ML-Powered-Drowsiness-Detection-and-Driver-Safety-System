@@ -14,7 +14,7 @@ This project implements a **Drowsiness Detection and Driver Safety System** usin
 ├── model.ipynb          # Main Jupyter Notebook with code implementation
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
-├── images/              # Sample images/screenshots (if applicable)
+├── Driver Drowsiness Dataset (DDD)/  # Sample images/screenshots (if applicable)
 └── src/                 # Additional scripts and utilities
 ```
 
@@ -77,17 +77,9 @@ If using an Arduino, ensure it is connected via USB. Alerts such as a buzzer sou
 - Ensure all required libraries are installed using `requirements.txt`.
 - If Arduino integration fails, check the COM port configuration and ensure the Arduino is properly connected.
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests for enhancements and bug fixes.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - OpenCV and dlib libraries for facial landmark detection.
 - Arduino for hardware integration.
 - Our professor for guidance and support during the project development.
 
 ---
-
-Feel free to modify and enhance this README as needed!
