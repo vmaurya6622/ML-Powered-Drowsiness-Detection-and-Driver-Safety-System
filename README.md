@@ -66,6 +66,7 @@ The notebook will process the video feed, detect drowsiness based on facial land
 ### Step 4: (Optional) Integrate Arduino
 If using an Arduino, ensure it is connected via USB. Alerts such as a buzzer sound or LED light will be triggered when drowsiness is detected.
 
+
 ## How It Works
 1. **Face Detection**: The system detects the driver's face in real time using a pre-trained face detection model (e.g., Haar cascades or dlib).
 2. **Eye Aspect Ratio (EAR)**: Calculates the EAR to monitor if the eyes are closed for an extended period.
