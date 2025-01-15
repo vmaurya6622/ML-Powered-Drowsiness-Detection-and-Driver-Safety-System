@@ -6,7 +6,7 @@ This project implements a **Drowsiness Detection and Driver Safety System** usin
 ## Features
 - Real-time facial monitoring using a camera.
 - Drowsiness detection using eye aspect ratio and head pose analysis.
-- Alerts to notify the driver when drowsiness is detected.
+- Alerts will be sent to the driver when drowsiness is detected.
 - Arduino integration for additional hardware control (e.g., triggering alarms).
 
 ## Project Structure
@@ -29,7 +29,7 @@ Ensure the following software and hardware are available:
 
 ### Hardware Requirements
 1. A computer with a camera/webcam.
-2. Arduino board (e.g., Arduino Uno) for hardware components along with a pulse sensor for Heart-beat Monitoring.
+2. Arduino board (e.g., Arduino Uno) for hardware components and a pulse sensor for Heartbeat Monitoring.
 3. Buzzer for notifications.
 
 ## Installation
@@ -68,7 +68,7 @@ If using an Arduino, ensure it is connected via USB. Alerts such as a buzzer sou
 
 
 ## How It Works
-1. **Face Detection**: The system detects the driver's face in real time using a pre-trained face detection model (e.g., Haar cascades or dlib).
+1. **Face Detection**: The system detects the driver's face in real-time using a pre-trained face detection model (e.g., Haar cascades or lib).
 2. **Eye Aspect Ratio (EAR)**: Calculates the EAR to monitor if the eyes are closed for an extended period.
 3. **Head Pose Analysis**: Detects head tilts that indicate drowsiness.
 4. **Alerts**: Triggers a warning sound or visual indicator if drowsiness is detected.
